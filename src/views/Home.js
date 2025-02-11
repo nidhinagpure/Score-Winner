@@ -29,7 +29,7 @@ function Home() {
     return (
       <div className="bg-blue-100 min-h-screen p-10">
         <h1 className="text-center text-3xl md:text-5xl py-4 md-py-10 border-2 border-blue-500
-         border-dashed rounded-md text-blue-500 bg-white"> WinnerScore </h1>
+         border-dashed rounded-md text-blue-500 bg-white"> Winner Score 👍 </h1>
        
         <div className="flex flex-col md:flex-row justufy-center md:justufy-around md-mt-10"> 
         <ScoreCard

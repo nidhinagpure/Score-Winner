@@ -4,7 +4,8 @@
   "main": "index.js",
   "description": "My First React Project",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.5",
