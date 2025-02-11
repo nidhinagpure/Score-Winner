@@ -1,0 +1,33 @@
+{
+  "name": "winner-score",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "My First React Project",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.5",
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.1",
+    "react-scripts": "^5.0.1"
+  },
+  "browserlists": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
